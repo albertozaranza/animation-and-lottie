@@ -7,6 +7,10 @@
 - [x] Animar o botão (tranformar em círculo)
 - [x] Mostrar componente lottie ao fim da animação
 
+## Resultado
+
+![alt text](https://github.com/albertozaranza/animation-and-lottie/blob/master/gif/gif.gif)
+
 ### Referências
 
 - [Animation with Styled Components](https://github.com/nenti/styled-components/blob/e328bb7ce14c72897bda7b87e7f57ef777a411fd/docs/react-native.md)
